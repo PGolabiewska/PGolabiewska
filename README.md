@@ -5,23 +5,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=I+love+building+things+with+code!;Exploring+web+dev+and+game+design.;Always+learning+something+new.">
 </p>
 
+---
+
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PGolabiewska&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGolabiewska&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://i.redd.it/etp5i1cw0ks61.gif" alt="Toby Dog GIF" width="200">
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PGolabiewska&th
