@@ -11,16 +11,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PGolabiewska&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PGolabiewska&show_icons=true&theme=github_dark&custom_title=Github%20Stats&hide=contribs&rank_icon=github" height="200" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGolabiewska&layout=donut&theme=github_dark" height="350" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGolabiewska&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+
 </p>
 
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PGolabiewska&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=1a1b27&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
