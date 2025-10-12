@@ -4,10 +4,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=I+love+building+things+with+code!;Exploring+web+dev+and+game+design.;Always+learning+something+new.">
 </p>
+<p><p align="center">
+  <img src="https://media.tenor.com/x1QOy0SBJW8AAAAj/toby-fox.gif" alt="Toby Dog GIF" width="200">
+</p></p>
 
 ---
-
-### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PGolabiewska&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
@@ -22,8 +23,4 @@
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PGolabiewska&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=1a1b27&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://i.redd.it/etp5i1cw0ks61.gif" alt="Toby Dog GIF" width="200">
 </p>
