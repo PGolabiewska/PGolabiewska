@@ -21,4 +21,9 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PGolabiewska&th
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PGolabiewska&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=1a1b27&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://i.redd.it/etp5i1cw0ks61.gif" alt="Toby Dog GIF" width="200">
+</p>
