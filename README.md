@@ -11,9 +11,9 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PGolabiewska&show_icons=true&theme=github_dark&custom_title=Github%20Stats&hide=contribs&rank_icon=github" height="200" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-alpha-teal-19.vercel.app/api?username=PGolabiewska&show_icons=true&theme=github_dark&custom_title=Github%20Stats&hide=contribs&rank_icon=github" height="200" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PGolabiewska&layout=donut&theme=github_dark" height="350" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats-alpha-teal-19.vercel.app/api/top-langs/?username=PGolabiewska&layout=donut&theme=github_dark" height="350" alt="Top Languages" />
 </p>
 
 <p align="center">
